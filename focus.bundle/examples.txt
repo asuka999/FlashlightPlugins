@@ -1,0 +1,6 @@
+focus ~task(do sth) for ~what(working) cost ~time(30)
+focus ~task(do sth) cost ~time(30)
+focus ~task(do sth)
+stop
+continue
+pause

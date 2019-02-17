@@ -1,2 +1,6 @@
-*
-!.gitignore
+*/
+
+!focus.bundle/
+!itunes.bundle/
+!key.bundle/
+!status.bundle/

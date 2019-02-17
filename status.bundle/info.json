@@ -1,0 +1,14 @@
+{
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "Status",
+  "name" : "status",
+  "description" : "know current status",
+  "examples" : [
+    "status",
+    "ip",
+    "wifi",
+    "bluetooth"
+  ]
+}

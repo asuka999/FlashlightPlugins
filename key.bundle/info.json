@@ -1,0 +1,12 @@
+{
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "keychain",
+  "name" : "key",
+  "description" : "sync or clip keychain",
+  "examples" : [
+    "key",
+    "key hello.world abc@def.com"
+  ]
+}

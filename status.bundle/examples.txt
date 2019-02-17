@@ -1,0 +1,6 @@
+status
+wifi
+bluetooth
+ovpn
+socks
+ip

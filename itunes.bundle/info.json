@@ -1,0 +1,12 @@
+{
+  "examples" : [
+    "music",
+    "play ~song(Good Morning)"
+  ],
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "iTunes",
+  "name" : "itunes",
+  "description" : "Start or Stop iTunes"
+}

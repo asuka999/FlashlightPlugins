@@ -1,0 +1,2 @@
+key
+key ~domain(hello.world.com) ~name(abc@def.com)

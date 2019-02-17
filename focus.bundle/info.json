@@ -1,0 +1,14 @@
+{
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "Focus Something",
+  "name" : "time",
+  "description" : "Focus Something on menu bar",
+  "examples" : [
+    "focus 'jira-abc' for working cost 30",
+    "pause",
+    "continue",
+    "stop"
+  ]
+}
